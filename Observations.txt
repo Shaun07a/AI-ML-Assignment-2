@@ -1,0 +1,11 @@
+Observation 1
+
+The Logistic Regression model correctly classifies the majority of customers, indicating that it is effective for customer churn prediction.
+
+Observation 2
+
+The confusion matrix shows that while most non-churn customers are classified correctly, a few churn customers are misclassified due to overlapping customer characteristics.
+
+Observation 3
+
+The Accuracy, Precision, Recall, and F1-Score demonstrate that Logistic Regression provides reliable performance for this binary classification problem.

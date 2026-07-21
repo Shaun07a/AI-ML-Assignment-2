@@ -1,0 +1,10 @@
+The Logistic Regression model was successfully developed to predict customer churn using demographic 
+information and service-related features from the Telco Customer Churn dataset. Data preprocessing 
+included handling missing values, converting the TotalCharges column to a numeric format, encoding 
+categorical variables, and splitting the dataset into training and testing sets. The model achieved good 
+classification performance based on Accuracy, Precision, Recall, and F1-Score. The analysis indicates that 
+factors such as contract type, monthly charges, tenure, internet services, and payment methods 
+significantly influence customer churn. Although Logistic Regression performs well for binary 
+classification, it assumes a linear relationship between the independent variables and the log odds of the 
+target variable. More advanced machine learning models may capture complex patterns more effectively 
+and improve prediction accuracy.
